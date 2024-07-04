@@ -1,0 +1,35 @@
+Framework: jekyll
+Processor:
+  ImageName: jekyll/builder:latest
+  Verbose: false
+  Trace: false
+  Watch: true
+  Destination: 
+Theme:
+  Project: jekyll-themes|flex
+  Account: themes
+  Name: Flex
+  Commit: 
+  Homepage: https://github.com/the-development/flex
+  Url: https://github.com/the-development/flex
+  IncludeThemePages: false
+  Image: 
+  Thumbnail: /@s2g/themes/themes/r7yagyzvgtq4/thumbnail/flex.png
+  Date: 0001-01-01T00:00:00.0000000
+  ShortDescription: >-
+    Flex is a minimal, responsive, two-column, theme for Jekyll with an
+
+    emphasis on typography and minimal photos
+  Description: >-
+    Flex is a minimal, responsive, two-column, theme for Jekyll with an
+
+    emphasis on typography and minimal photos. In the mobile view of the
+
+    website, the left-side column becomes a collapsed, sliding menu.
+  Author: Jeff Martin
+  License: MIT License
+  Download: https://github.com/the-development/flex/archive/master.zip
+  Demo: http://the-development.github.io/flex
+  LicenseLink: https://github.com/the-development/flex/blob/master/LICENSE
+Publish: 
+Error: 
